@@ -4,6 +4,7 @@
 
 Установка зависимостей:
 pip install -r requirements.txt ----> для запуска
+
 pip install -r requirements_test.txt ----> для тестирования
 
 Запуск:
