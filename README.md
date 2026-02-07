@@ -14,9 +14,13 @@ pip install -r requirements_test.txt ----> для тестирования
 Запуск:
 
 python src/main.py --files economic1.csv economic2.csv --report average-gdp
+
 python src/main.py --files economic1.xls economic2.csv economic3.xlsx  economic4.py --report average-gdp
+
 python src/main.py --files economic2.txt --report average-inflation
+
 python src/main.py --files economic1.csv economic2.py --report average-population
+
 
 python src/main.py --files ВАШИ ФАИЛЫ --report average-gdp
 
